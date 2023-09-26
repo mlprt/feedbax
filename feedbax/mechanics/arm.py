@@ -1,5 +1,8 @@
 """ 
 
+TODO:
+- Use Jacobian to convert joint angular velocity to effector velocity.
+
 :copyright: Copyright 2023 by Matt L Laporte.
 :license: Apache 2.0, see LICENSE for details.
 """
