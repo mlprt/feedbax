@@ -1,7 +1,7 @@
 """ 
 
 
-:copyright: Copyright 2023 by Matt L Laporte.
+:copyright: Copyright 2023-2024 by Matt L Laporte.
 :license: Apache 2.0, see LICENSE for details.
 """
 
