@@ -1,6 +1,6 @@
 """Pre-built 
 
-:copyright: Copyright 2023-2024 by Matt L. Laporte.
+:copyright: Copyright 2023-2024 by Matt Laporte.
 :license: Apache 2.0. See LICENSE for details.
 """
 

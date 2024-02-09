@@ -21,11 +21,9 @@ TODO:
   `AddNoise`, `NetworkClamp`, and `NetworkConstantInput`. These are intended to 
   make modifications to a part of the state, not to transform between parts.
   
-:copyright: Copyright 2023-2024 by Matt L. Laporte.
+:copyright: Copyright 2023-2024 by Matt Laporte.
 :license: Apache 2.0. See LICENSE for details.
 """
-
-# from __future__ import annotations
 
 from abc import abstractclassmethod, abstractmethod
 from collections.abc import Mapping, Sequence, Callable
