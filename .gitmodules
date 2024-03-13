@@ -1,3 +1,0 @@
-[submodule "dev"]
-	path = dev
-	url = git@github.com:mlprt/feedbax-dev.git
